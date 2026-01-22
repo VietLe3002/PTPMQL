@@ -1,0 +1,15 @@
+F:\Mẩu\MVC\NewApp\bin\Debug\net10.0\NewApp.exe
+F:\Mẩu\MVC\NewApp\bin\Debug\net10.0\NewApp.deps.json
+F:\Mẩu\MVC\NewApp\bin\Debug\net10.0\NewApp.runtimeconfig.json
+F:\Mẩu\MVC\NewApp\bin\Debug\net10.0\NewApp.dll
+F:\Mẩu\MVC\NewApp\bin\Debug\net10.0\NewApp.pdb
+F:\Mẩu\MVC\NewApp\obj\Debug\net10.0\NewApp.GeneratedMSBuildEditorConfig.editorconfig
+F:\Mẩu\MVC\NewApp\obj\Debug\net10.0\NewApp.AssemblyInfoInputs.cache
+F:\Mẩu\MVC\NewApp\obj\Debug\net10.0\NewApp.AssemblyInfo.cs
+F:\Mẩu\MVC\NewApp\obj\Debug\net10.0\NewApp.csproj.CoreCompileInputs.cache
+F:\Mẩu\MVC\NewApp\obj\Debug\net10.0\NewApp.sourcelink.json
+F:\Mẩu\MVC\NewApp\obj\Debug\net10.0\NewApp.dll
+F:\Mẩu\MVC\NewApp\obj\Debug\net10.0\refint\NewApp.dll
+F:\Mẩu\MVC\NewApp\obj\Debug\net10.0\NewApp.pdb
+F:\Mẩu\MVC\NewApp\obj\Debug\net10.0\NewApp.genruntimeconfig.cache
+F:\Mẩu\MVC\NewApp\obj\Debug\net10.0\ref\NewApp.dll
